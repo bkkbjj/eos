@@ -1,1 +1,1 @@
-docker pull eosio/eos-dev
+$ docker push decdocker/eos-file:tagname
